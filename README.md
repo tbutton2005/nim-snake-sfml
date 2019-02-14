@@ -1,2 +1,2 @@
 # nim-snake-sfml
-simple sfml game wrted with nim
+simple sfml game wrtten in nim
