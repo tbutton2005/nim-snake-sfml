@@ -2,7 +2,7 @@
 name = "snake"
 version = "1.0.0"
 author = "tbutton2005"
-description = "simple snake game writed with nim"
+description = "simple snake game written in nim"
 license = "GPL"
 bin = "snake"
 
