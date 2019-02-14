@@ -112,9 +112,7 @@ while window.open:
     txt.color = White
     txt.position = vec2(200,200)
 
-
   window.draw(txt)
-
 
   window.display()
 
